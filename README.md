@@ -3,5 +3,4 @@ A simple to-do list app for Apple and Android, written in React Native. Both dem
 
 
 ![](iphone.gif)
-
 ![](Android.gif)
